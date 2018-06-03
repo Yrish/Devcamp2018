@@ -1,5 +1,5 @@
 #do not incorprate node modules
-node_modules/**
+*node_modules/**
 
 #do not incorprate folder icons
 Icon?
