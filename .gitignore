@@ -1,8 +1,14 @@
 #do not incorprate node modules
-*node_modules/**
+**/node_modules/**
 
 #do not incorprate folder icons
 Icon?
 
 #banish mac osx file display file
 .DS_Store
+
+**/npm-debug.log
+**/yarn-error.log
+
+**/dist/**
+**/env.js
